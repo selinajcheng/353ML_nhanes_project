@@ -5,7 +5,7 @@ This folder is the shareable repo.
 ## Included
 
 - `datasets/nhanes.csv`
-- `Project Spring 2026.pdf`
+- `Project Spring 2026.pdf` , `NHANES Dataset Overview.pdf`
 - `requirements.txt`, `Makefile`, `.python-version`: reproducible environment setup
 - `step4.ipynb` under `src` directory
 - code from previous steps under the `previous_steps` directory (`selina_step1.ipynb` and `selina_step2.ipynb`)
